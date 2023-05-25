@@ -1,0 +1,9 @@
+.idea/
+.mvn/
+target/
+HELP.md
+mvnw
+mvnw.cmd
+node_modules/
+application.properties
+.vercel
